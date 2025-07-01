@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@pilcrowjs/object-parser": "^0.0.4",
     "arctic": "^3.7.0",
     "dotenv": "^16.6.1",
     "drizzle-orm": "^0.44.2",
